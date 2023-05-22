@@ -1,6 +1,6 @@
-Batkins Incorporated
+Batkins Incorporated<br>
 Welcome to the official GitHub repository for Batkins Incorporated, a professional cleaning company offering a wide range of cleaning services, including waterproofing, deep cleaning, and more.
-
+<br>
 Introduction
 Hello, I'm Je Dela Cruz, and I'm excited to present the website I developed for Batkins Incorporated. As a commissioned project, my goal was to create a user-friendly and informative website that showcases the company's services and expertise in the cleaning industry.
 
